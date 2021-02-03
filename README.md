@@ -1,2 +1,2 @@
-# azure-powershell-citrix-backup-gold-image
- This is how to backup / snapshot Citrix gold image using PowerShell
+# azure-powershell-azure-resize-disk
+ This is how to resize disk in Azure using PowerShell
